@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as s}from"./index-9cb3d564.js";const c={},r={class:"sport"},_=s("h1",null,"Sport",-1),n=[_];function a(d,i){return o(),t("div",r,n)}const p=e(c,[["render",a]]);export{p as default};
